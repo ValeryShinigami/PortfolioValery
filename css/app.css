@@ -1,0 +1,56 @@
+.rouge {
+  color: red;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: red;
+}
+
+.text-center {
+  margin-top: 80px;
+}
+
+.skill {
+  text-align: center;
+}
+
+.list-item {
+  list-style: none;
+}
+
+.comp {
+  padding-top: 20px;
+}
+
+.skill {
+  background-color: #171e2d;
+  color: white;
+  margin-top: 30px;
+}
+
+.list-item {
+  margin-top: 20px;
+}
+
+.copyright {
+  font-size: 12px;
+}
+
+.head {
+  background-color: #171e2d;
+  color: white;
+}
+
+.nom {
+  font-size: 22px;
+}
+
+.test {
+  padding-top: 2%;
+}
+
+.card {
+  filter: drop-shadow(0 0 0.75rem #b8cbe4);
+}
+
+/*# sourceMappingURL=app.css.map */
