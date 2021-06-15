@@ -53,4 +53,12 @@
   filter: drop-shadow(0 0 0.75rem #b8cbe4);
 }
 
+.lien{
+  color: white;
+}
+
+.nom{
+  padding-top: 1%;
+}
+
 /*# sourceMappingURL=app.css.map */
